@@ -1,11 +1,15 @@
 # Matlab Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 12/13/2024
+This data is updated weekly, with filled postings removed. Last updated: 12/17/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Matlab Jobs](https://algojobs.io/jobs/matlab)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
+| 12/16/2024 | [Embedded Software Engineer](https://algojobs.io/jobs/2608363) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $90K - $96K | IN-Ft. Wayne, United States / CO-Colorado Springs, United States |
+| 12/16/2024 | [Principal/ Senior Principal Engineer Software](https://algojobs.io/jobs/2606208) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $127K - $190K | United States-Maryland-Linthicum / United States-Maryland-Annapolis Junction |
+| 12/13/2024 | [Software Engineer](https://algojobs.io/jobs/2590036) | [Modern Technology Solutions, Inc.](https://algojobs.io/company/mtsi/) | N/A | Wright- Patterson AFB, OH, US |
+| 12/13/2024 | [Operations Analyst / Simulation Developer](https://algojobs.io/jobs/2589852) | [ITA International](https://algojobs.io/company/ita-intl/) | $119K - $130K | US |
 | 12/12/2024 | [Software Engineer for Training AI Data - Python, Japanese Language](https://algojobs.io/jobs/2575878) | [G2i Inc.](https://algojobs.io/company/g2i/) | N/A | Remote |
 | 12/12/2024 | [Software Engineer for Training AI Data - Python, German Language](https://algojobs.io/jobs/2575879) | [G2i Inc.](https://algojobs.io/company/g2i/) | N/A | Remote |
 | 12/12/2024 | [Software Engineer for Training AI Data - Python, Mandarin (Simplified)](https://algojobs.io/jobs/2575880) | [G2i Inc.](https://algojobs.io/company/g2i/) | $20 - $50 | Remote |
@@ -65,7 +69,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/27/2024 | [Senior Autonomy Software Engineer](https://algojobs.io/jobs/2476456) | [Wisk Aero](https://algojobs.io/company/wisk/) | $169K - $199K | Mountain View, CA (Hybrid) |
 | 11/26/2024 | [Software Application Development Engineer](https://algojobs.io/jobs/2291550) | [Intel](https://algojobs.io/company/intel/) | $123K - $185K | US, California, Santa Clara / US, Arizona, Phoenix / US, Oregon, Hillsboro |
 | 11/25/2024 | [Software Engineer](https://algojobs.io/jobs/2359327) | [Peraton](https://algojobs.io/company/peraton/) | $104K - $166K | Woodbridge, NJ, US |
-| 11/25/2024 | [Lead Software Engineer](https://algojobs.io/jobs/2274078) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Noida, Uttar Pradesh, India |
 | 11/25/2024 | [Principal / Sr Principal Software Engineer](https://algojobs.io/jobs/2276189) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $95K - $142K | United States-Georgia-Warner Robins, United States of America |
 | 11/25/2024 | [UWB RADAR Software Development Intern](https://algojobs.io/jobs/2276850) | [NXP Semiconductors N.V.](https://algojobs.io/company/nxp/) | N/A | Shanghai (JingAn), China |
 | 11/25/2024 | [R&D Software Development Associate](https://algojobs.io/jobs/2275091) | [UT Austin](https://algojobs.io/company/utaustin/) | $88K - $120K | PICKLE RESEARCH CAMPUS, United States of America |
@@ -97,7 +100,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 11/14/2024 | [Principal Systems Software Analyst - M&S System Analyst (24-452)](https://algojobs.io/jobs/2209094) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $97K - $146K | United States-Colorado-Colorado Springs, United States of America |
 | 11/12/2024 | [Advanced Software Engineer](https://algojobs.io/jobs/2418531) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $107K - $114K | IN-Ft. Wayne, United States / CO-Colorado Springs, United States |
 | 11/12/2024 | [Senior Advanced Software Engineer](https://algojobs.io/jobs/2418668) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $128K - $138K | IN-Ft. Wayne, United States / CO-Colorado Springs, United States |
-| 11/12/2024 | [Senior Power Electronics Embedded Software Engineer (m/w/d)](https://algojobs.io/jobs/2188055) | [Flex](https://algojobs.io/company/flextronics/) | N/A | Germany, Stuttgart |
 | 11/11/2024 | [Software Engineer II or Above](https://algojobs.io/jobs/2177861) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Columbus, Georgia, USA, United States of America |
 | 11/11/2024 | [Staff Software Systems Engineer (SS1002)](https://algojobs.io/jobs/2179934) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $157K - $247K | United States-Maryland-Annapolis Junction / United States-Maryland-Linthicum |
 | 11/11/2024 | [Sr .Net Developer](https://algojobs.io/jobs/2177864) | [Global Payments Inc.](https://algojobs.io/company/tsys/) | N/A | Cuajimalpa, Mexico City, Mexico |
@@ -122,9 +124,3 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 10/22/2024 | [Tactical Radio Embedded Software Engineer](https://algojobs.io/jobs/2418439) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $107K - $119K | IN-Ft. Wayne, United States / AZ-Scottsdale, United States |
 | 10/22/2024 | [Tactical Radio Embedded Software Engineer](https://algojobs.io/jobs/2419764) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $90K - $100K | IN-Ft. Wayne, United States / AZ-Scottsdale, United States |
 | 10/21/2024 | [Software Engineer](https://algojobs.io/jobs/2041545) | [Boeing](https://algojobs.io/company/boeing/) | N/A | USA - Kirtland AFB, NM / USA - Albuquerque, NM |
-| 10/18/2024 | [Junior AFSIM Developer](https://algojobs.io/jobs/2424518) | [Modern Technology Solutions, Inc.](https://algojobs.io/company/mtsi/) | N/A | Beavercreek, OH, US |
-| 10/18/2024 | [Metrology Process Analyst and Macro Developer - India](https://algojobs.io/jobs/2427208) | [InnovMetric Software Inc.](https://algojobs.io/company/innovmetric/) | N/A | Indiana |
-| 10/18/2024 | [Controls Software Engineer II](https://algojobs.io/jobs/2026093) | [Fluence](https://algojobs.io/company/fluence/) | N/A | Houston, TX, USA (Hybrid) |
-| 10/17/2024 | [Principal Engineer Software - Embedded and Real Time](https://algojobs.io/jobs/2024208) | [Northrop Grumman](https://algojobs.io/company/ngc/) | $92K - $139K | United States-Florida-Melbourne / United States-Oklahoma-Oklahoma City |
-| 10/16/2024 | [DSP Software Engineer](https://algojobs.io/jobs/2007597) | [E-Space](https://algojobs.io/company/espace/) | N/A | Duisburg |
-| 10/16/2024 | [Sr. Controls Software Engineer (BMS)/C++ Developer](https://algojobs.io/jobs/1997616) | [Fluence](https://algojobs.io/company/fluence/) | N/A | Bangalore, India (Hybrid) |
